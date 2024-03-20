@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/SendDataUart/Core/Src/main.c:871:6:StartDefaultTask	1
+C:/TouchGFXProjects/SendDataUart/Core/Src/main.c:123:6:HAL_UARTEx_RxEventCallback	2
+C:/TouchGFXProjects/SendDataUart/Core/Src/main.c:243:6:SystemClock_Config	1
+C:/TouchGFXProjects/SendDataUart/Core/Src/main.c:144:5:main	1
+C:/TouchGFXProjects/SendDataUart/Core/Src/main.c:898:6:HAL_TIM_PeriodElapsedCallback	2
+C:/TouchGFXProjects/SendDataUart/Core/Src/main.c:915:6:Error_Handler	1
